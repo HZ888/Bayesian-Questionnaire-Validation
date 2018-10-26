@@ -4,7 +4,7 @@
 
 **Application:** This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The tool uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app output presents results from both classic and Bayesian CFA.
 
-#https://fammedresearch.shinyapps.io/qvbeta13/ (Beta 13.0, last updated Oct 31, 2018)
+# https://fammedresearch.shinyapps.io/qvbeta13/ (Beta 13.0, last updated Oct 31, 2018)
 
 **Guides & resources:**
 Part 1: Introduction to a Questionnaire Validation Tool with Bayesian Confirmatory Factor Analysis https://www.youtube.com/watch?v=pa3OK1KnHeY&t=15s
