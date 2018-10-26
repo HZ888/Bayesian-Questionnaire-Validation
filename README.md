@@ -1,6 +1,7 @@
 **Background:** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is underutilized in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation. 
 
-**[Application](https://fammedresearch.shinyapps.io/qvbeta13/)**(Beta 13.0, last updated Oct 31, 2018): This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The tool uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app output presents results from both classic and Bayesian CFA.
+# **[Application](https://fammedresearch.shinyapps.io/qvbeta13/)** (Beta 13.0, last updated Oct 31, 2018): 
+This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The tool uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app output presents results from both classic and Bayesian CFA.
  
 **Guides & resources:**
 
@@ -16,9 +17,9 @@
 
 **Contribution:** This will enable and promote knowledge integration from diverse stakeholder perspectives at an early stage of questionnaire development. This will also lead to an effective use of preliminary study data or expert input in the validation process. 
 
-**Acknowledgement:** The work is done in cooperation with the method development platform of the Quebec SPOR-SUPPORT Unit. 
+**Acknowledgement:** The work is done in cooperation with the method development platform of the Quebec SPOR-SUPPORT Unit (Canada). 
 
-**Impact:** Ultimately, my research will translate into higher quality of evidence-based care employing questionnaires, improved patient outcomes and increased cost-efficiencies in health-care system.
+**Impact:** Ultimately, this research will translate into higher quality of evidence-based care employing questionnaires, improved patient outcomes and increased cost-efficiencies in health-care system.
 
 **[App evaluation](https://www.surveymonkey.com/r/N6285D3)** 
 
