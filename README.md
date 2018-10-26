@@ -1,3 +1,5 @@
+Development of an accessible and user-friendly web-application for conducting Bayesian confirmatory factor analysis.
+
 **Background:** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is underutilized in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation. 
 
 # **[Application](https://fammedresearch.shinyapps.io/qvbeta13/)** (Beta 13.0, last updated Oct 31, 2018): 
