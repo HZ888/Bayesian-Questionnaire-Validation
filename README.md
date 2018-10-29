@@ -16,7 +16,7 @@ This web app is designed for researchers and clinicians with any level of statis
 
 [Part 4: Bayesian Confirmatory Factor Analysis web application: (**BayesiCALLY**)](https://www.youtube.com/watch?v=q3bh42HRoI8&t=284s);
 
-[Part 5 Summary Bayesian Questionnaire Validation](https://www.youtube.com/watch?v=QuD2wqpspnU).
+[Part 5: Summary Bayesian Questionnaire Validation](https://www.youtube.com/watch?v=QuD2wqpspnU).
 
 **Contribution:** This will enable and promote knowledge integration from diverse stakeholder perspectives at an early stage of questionnaire development. This will also lead to an effective use of preliminary study data or expert input in the validation process. 
 
