@@ -2,7 +2,8 @@ Development of an accessible and user-friendly web-application (**BayesiCALLY**)
 
 **Background:** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is underutilized in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation.
 
-# **[BayesiCALLY](https://fammedresearch.shinyapps.io/qvbeta13/)** Application (Beta 13.0, last updated Oct 31, 2018): 
+# **[BayesiCALLY](https://fammedresearch.shinyapps.io/qvbeta13/)** Application 
+# (Beta 13.0, last updated Oct 31, 2018): 
 This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The tool (**BayesiCALLY**) uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app (**BayesiCALLY**) outputs presents results from both classic and Bayesian CFA.
  
 **Guides & resources:**
