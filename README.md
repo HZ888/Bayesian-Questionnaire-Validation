@@ -10,9 +10,9 @@ This web app is designed for researchers and clinicians with any level of statis
 
 [Part 1: Introduction to a Questionnaire Validation Tool (**BayesiCALLY**) with Bayesian Confirmatory Factor Analysis](https://www.youtube.com/watch?v=pa3OK1KnHeY&t=15s); 
 
-[Part 2: Questionnaire validation, small sample size & Bayesian confirmatory factor analysis with (**BayesiCALLY**)](https://www.youtube.com/watch?v=WLLyoAggLbw);
+[Part 2: Questionnaire validation, small sample size & Bayesian Confirmatory Factor Analysis with (**BayesiCALLY**)](https://www.youtube.com/watch?v=WLLyoAggLbw);
 
-[Part 3: Bayesian Confirmatory factor analysis & questionnaire validation on patient satisfaction with (**BayesiCALLY**)](https://www.youtube.com/watch?v=48SsUV8ltQk&t=30s);
+[Part 3: Bayesian Confirmatory Factor Analysis & questionnaire validation on patient satisfaction with (**BayesiCALLY**)](https://www.youtube.com/watch?v=48SsUV8ltQk&t=30s);
 
 [Part 4: Bayesian CFA web application: (**BayesiCALLY**)](https://www.youtube.com/watch?v=q3bh42HRoI8&t=284s);
 
