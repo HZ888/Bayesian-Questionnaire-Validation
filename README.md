@@ -1,10 +1,10 @@
 Development of an accessible and user-friendly web-application (**BayesiCALLY**) for conducting Bayesian confirmatory factor analysis.
 
-**Background:** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is underutilized in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation.
+**[Background](http://www.cfp.ca/content/64/9/699):** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is [underutilized](http://www.napcrg.org/Conferences/AnnualMeeting/SearchResearchPresentations?m=6&s=22926) in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation. 
 
 # **[BayesiCALLY](https://fammedresearch.shinyapps.io/qvbeta15/)** Application 
 # (Beta 15.0, last updated Oct 30, 2018): 
-This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The tool (**BayesiCALLY**) uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app (**BayesiCALLY**) output presents results from both classic and Bayesian CFA.
+This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The [tool](http://www.napcrg.org/Conferences/AnnualMeeting/EducationEvents/SearchEducationalSessions?m=6&s=20892) (**BayesiCALLY**) uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app (**BayesiCALLY**) output presents results from both classic and Bayesian CFA.
  
 **Guides & resources:**
 
