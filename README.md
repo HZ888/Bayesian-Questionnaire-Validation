@@ -14,7 +14,7 @@ This web app is designed for researchers and clinicians with any level of statis
 
 [Part 3: Bayesian Confirmatory Factor Analysis & questionnaire validation on patient satisfaction with (**BayesiCALLY**)](https://www.youtube.com/watch?v=48SsUV8ltQk&t=30s);
 
-[Part 4: Bayesian Confirmatory Factor Analysis web application: (**BayesiCALLY**)](https://www.youtube.com/watch?v=q3bh42HRoI8&t=284s);
+[Part 4: Bayesian Confirmatory Factor Analysis web application: **BayesiCALLY**](https://www.youtube.com/watch?v=q3bh42HRoI8&t=284s);
 
 [Part 5: Summary Bayesian Questionnaire Validation](https://www.youtube.com/watch?v=QuD2wqpspnU).
 
