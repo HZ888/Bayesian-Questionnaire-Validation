@@ -27,3 +27,7 @@ This web app is designed for researchers and clinicians with any level of statis
 **[BayesiCALLY Application Evaluation](https://www.surveymonkey.com/r/N6285D3)** 
 
 **Contact:** hao(dot)zhang5(at)mail(dot)mcgill(dot)ca
+
+References:
+Merkle, E. C., & Rosseel, Y. (2015). blavaan: Bayesian structural equation models via parameter expansion. arXiv preprint arXiv:1511.05604.
+Rosseel, Y. (2012). Lavaan: An R package for structural equation modeling and more. Version 0.5–12 (BETA). Journal of statistical software, 48(2), 1-36.
