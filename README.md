@@ -1,6 +1,6 @@
 Development of an accessible and user-friendly web-application (**BayesiCALLY**) for conducting Bayesian confirmatory factor analysis.
 
-**[Background](http://www.cfp.ca/content/64/9/699):** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is [underutilized](http://www.napcrg.org/Conferences/AnnualMeeting/SearchResearchPresentations?m=6&s=22926) in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation. 
+**[Background](http://www.cfp.ca/content/64/9/699):** Bayesian questionnaire validation is generally more efficient compared to conventional validation methods. However, possibly due to linguistic and conceptual barriers, the Bayesian approach is [underutilized](http://mcgill-fammedstudies-recherchemedfam.pbworks.com/w/page/132735660/MCGILL%20FAMILY%20MEDICINE%20STUDIES%2C%202018%3A%2001) in questionnaire validation studies in primary health care research. The objective is to develop a better acceptable and usable Bayesian framework for questionnaire validation that will employ online surveys for obtaining required expert input, so called prior elicitation. 
 
 # **[BayesiCALLY](https://fammedresearch.shinyapps.io/qvbeta15/)** Application 
 # (Beta 15.0, last updated Oct 30, 2018): 
