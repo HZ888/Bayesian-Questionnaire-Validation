@@ -4,7 +4,7 @@ Development of an accessible and user-friendly web-application (**BayesiCALLY**)
 
 # **[BayesiCALLY](https://fammedresearch.shinyapps.io/qvbeta15/)** Application 
 # (Beta 15.0, last updated Oct 30, 2018): 
-This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The [tool](http://www.napcrg.org/Conferences/AnnualMeeting/EducationEvents/SearchEducationalSessions?m=6&s=20892) (**BayesiCALLY**) uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app (**BayesiCALLY**) output presents results from both classic and Bayesian CFA.
+This web app is designed for researchers and clinicians with any level of statistical training who are interested in validating a questionnaire. The [tool](http://mcgill-fammedstudies-recherchemedfam.pbworks.com/w/page/132979071/MCGILL%20FAMILY%20MEDICINE%20STUDIES%20(posters)%2C%202018%3A%2001) (**BayesiCALLY**) uses confirmatory factor analysis (CFA) to estimate relative importance of each question with respect to its domain, i.e. item-domain correlation. The web app (**BayesiCALLY**) output presents results from both classic and Bayesian CFA.
  
 **Guides & resources:**
 
