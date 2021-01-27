@@ -29,14 +29,21 @@ This web app is designed for researchers and clinicians with any level of statis
 **Contact:** hao(dot)zhang5(at)mail(dot)mcgill(dot)ca
 
 References:
+
 Merkle, E. C., & Rosseel, Y. (2015). blavaan: Bayesian structural equation models via parameter expansion. arXiv preprint arXiv:1511.05604.
+
 Rosseel, Y. (2012). Lavaan: An R package for structural equation modeling and more. Version 0.5–12 (BETA). Journal of statistical software, 48(2), 1-36.
 
 Recent publications:
+
 Zhang, H. & Schuster, T. (2021). A methodological review protocol of the use of Bayesian factor analysis in primary care research. Systematic Reviews, 10(1), pp.1-5.
+
 Gagnon, J., Hersson-Edery, F., Reoch, J., Zhang, H., Schuster, T., & Pluye, P. (2020). Development and Validation of the McGill Empowerment Assessment–Diabetes (MEA-D). Diabetes Spectrum.
+
 Zhang, H., Schuster, T. (2018). Questionnaire instrument development in primary health care research - A plea for using Bayesian inference. Canadian Family Physician. 64 (9) 699-700.
 
 Conference publications:
+
 Zhang, H., & Schuster, T. BayesiCALLY—a new Bayesian questionnaire validation tool for instrument development in primary care research. 47th North American Primary Care Research Group (NAPCRG) Annual Meeting, Toronto, Canada, Nov 16-20, 2019. DOI: https://www.napcrg.org/conferences/2001/sessions/1140
+
 Zhang, H., Schuster, T. Inform Prior Elicitation for Bayesian Questionnaire Validation with Confirmatory Factor Analysis. Joint Conference of the Sub-Saharan Africa Network (SUSAN) of the International Biometrics Society (IBS) and DELTAS Africa Sub-Saharan Africa Consortium for Advanced Biostatistics (SSACAB), Cape Town, South Africa, Sep 8-11, 2019. DOI: http://ibssusan2019.samrc.ac.za/AbstractBook.pdf
